@@ -16,5 +16,10 @@ public class Main {
       //  personAddress.setCity("San Francisco");(not work)
         System.out.println(person); // Person's address still remains unchanged
 
+
+        //singletonclass
+        //SingletonClass singletonClass=new SingletonClass();(not work)
+        SingletonClass singletonClass=SingletonClass.getInstance();
+
     }
 }
