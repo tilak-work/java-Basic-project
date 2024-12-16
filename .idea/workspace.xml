@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d7e046-9a6e-41ed-b78c-ea94622fbed4" name="Changes" comment="Immutable Class is created">
-      <change afterPath="$PROJECT_DIR$/src/SingletonClass.java" afterDir="false" />
+    <list default="true" id="c8d7e046-9a6e-41ed-b78c-ea94622fbed4" name="Changes" comment="Singleton class is created">
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/ArrayDequeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/LinkedHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionTest/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/StreamWithMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionTest/HashtableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionTest/HashtableExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +40,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="abfda4c8-1e04-4ea4-9cea-12ce21dcdbd2" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tilak-work/java-Basic-project.git",
-    "accountId": "abfda4c8-1e04-4ea4-9cea-12ce21dcdbd2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tilak-work/java-Basic-project.git&quot;,
+    &quot;accountId&quot;: &quot;abfda4c8-1e04-4ea4-9cea-12ce21dcdbd2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2q40jk5aUUggXr8aQz17hQE7kD8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,24 +63,107 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayDequeExample.executor": "Run",
+    "Application.FailFastExample.executor": "Run",
+    "Application.FailSafeExample.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashtableExample.executor": "Run",
+    "Application.JdbcExample.executor": "Run",
+    "Application.LinkedHashMapExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PriorityQueueExample.executor": "Run",
+    "Application.StackExample.executor": "Run",
+    "Application.StreamWithMapExample.executor": "Debug",
+    "Application.TreeMapExample.executor": "Run",
+    "Application.TreeSetExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/tilak/IdeaProjects/javaBasicsProject/src/Main.java"
+    "last_opened_file_path": "C:/Users/tilak/Downloads/MySqlJdbcDriver/mysql-connector-j-9.1.0.jar",
+    "onboarding.tips.debug.path": "C:/Users/tilak/IdeaProjects/javaBasicsProject/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "EditorConfig"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.StreamWithMapExample">
+    <configuration name="HashtableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.HashtableExample" />
       <module name="javaBasicsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.LinkedHashMapExample" />
+      <module name="javaBasicsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.StackExample" />
+      <module name="javaBasicsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamWithMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.StreamWithMapExample" />
+      <module name="javaBasicsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.TreeMapExample" />
+      <module name="javaBasicsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StreamWithMapExample" />
+        <item itemvalue="Application.HashtableExample" />
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.TreeMapExample" />
+        <item itemvalue="Application.LinkedHashMapExample" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733908717183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Singleton class is created">
+      <option name="closed" value="true" />
+      <created>1733909394922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733909394922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +214,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -125,6 +229,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit for thi project" />
     <MESSAGE value="Immutable Class is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Immutable Class is created" />
+    <MESSAGE value="Singleton class is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton class is created" />
   </component>
 </project>
